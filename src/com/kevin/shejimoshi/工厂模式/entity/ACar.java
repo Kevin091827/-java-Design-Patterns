@@ -6,7 +6,7 @@ package com.kevin.shejimoshi.工厂模式.entity;
  * @ClassName:ACar
  * @Description: TODO
  */
-public class ACar implements Car{
+public class ACar implements Car {
 
     @Override
     public void getCar() {

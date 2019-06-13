@@ -24,6 +24,6 @@ public class AbstractCarFactory extends AbstractFactory {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return (T)car;
+        return (T) car;
     }
 }

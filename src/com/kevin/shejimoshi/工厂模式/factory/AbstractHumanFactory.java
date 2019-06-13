@@ -19,7 +19,7 @@ public class AbstractHumanFactory extends AbstractFactory {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return (T)human;
+        return (T) human;
     }
 
     @Override
