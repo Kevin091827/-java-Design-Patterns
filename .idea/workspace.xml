@@ -60,11 +60,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="4" selection-start-line="4" selection-end-line="51" selection-end-column="1" />
+            <state relative-caret-position="276">
+              <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding>
                 <element signature="e#355#363#0" expanded="true" />
                 <element signature="e#1428#1429#0" expanded="true" />
@@ -77,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/Director.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="995">
-              <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="52" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -86,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelABuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="92">
+              <caret line="4" selection-start-line="4" selection-end-line="27" />
               <folding>
                 <element signature="e#454#455#0" expanded="true" />
                 <element signature="e#482#483#0" expanded="true" />
@@ -101,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelBBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="23">
+              <caret line="4" selection-start-line="4" selection-end-line="26" selection-end-column="1" />
               <folding>
                 <element signature="e#410#411#0" expanded="true" />
                 <element signature="e#438#439#0" expanded="true" />
@@ -150,11 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModelBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="345">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -324,7 +324,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560705865336" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560706168974" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -409,18 +409,17 @@
       <workItem from="1559824075153" duration="5962000" />
       <workItem from="1559918226103" duration="47000" />
       <workItem from="1560442896492" duration="1702000" />
-      <workItem from="1560703341325" duration="2354000" />
+      <workItem from="1560703341325" duration="2822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15339000" />
+    <option name="totallyTimeSpent" value="15807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26693493" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26693493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -430,13 +429,13 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43909347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28186968" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28186968" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
@@ -713,35 +712,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModelBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="4" selection-start-line="4" selection-end-line="51" selection-end-column="1" />
-          <folding>
-            <element signature="e#355#363#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1468#1469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelBBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelABuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="27" />
           <folding>
             <element signature="e#454#455#0" expanded="true" />
             <element signature="e#482#483#0" expanded="true" />
@@ -751,17 +732,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/Director.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelBBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="995">
-          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        <state relative-caret-position="23">
+          <caret line="4" selection-start-line="4" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModelBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/Director.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding>
+            <element signature="e#355#363#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
