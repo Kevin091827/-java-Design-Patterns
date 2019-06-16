@@ -23,6 +23,11 @@ public class CarB extends AbstractCar {
         System.out.println("汽车B停下.......");
     }
 
+    @Override
+    public boolean isAlarm() {
+        return false;
+    }
+
 //    @Override
 //    public void run() {
 //        start();
