@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4e75868f-2176-481e-b4d9-9e404c8f6b91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/kevin/shejimoshi/单例模式/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/设计模式/com/kevin/shejimoshi/单例模式/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/kevin/shejimoshi/单例模式/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/设计模式/com/kevin/shejimoshi/单例模式/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/kevin/shejimoshi/单例模式/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/设计模式/com/kevin/shejimoshi/单例模式/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/CarA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/CarA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/CarB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/CarB.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,39 +15,45 @@
     <session id="-506679625">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="39" />
-          <entry key="md" value="1" />
+          <entry key="GamePlayProxy" value="1" />
+          <entry key="IGamePlay" value="1" />
+          <entry key="Override" value="1" />
+          <entry key="Test" value="1" />
+          <entry key="java" value="54" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="39" />
-          <entry key="Markdown" value="1" />
+          <entry key="JAVA" value="54" />
+          <entry key="Markdown" value="2" />
+          <entry key="UML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="java" value="3108" />
-          <entry key="md" value="69" />
+          <entry key="java" value="4203" />
+          <entry key="md" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3108" />
-          <entry key="Markdown" value="69" />
+          <entry key="JAVA" value="4203" />
+          <entry key="Markdown" value="81" />
           <entry key="PLAIN_TEXT" value="26" />
         </counts>
       </usages-collector>
@@ -60,138 +61,128 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModel.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/IGamePlay2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="20" column="1" selection-start-line="8" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/GamePlay2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" selection-start-line="8" selection-end-line="59" selection-end-column="1" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/GamePlayProxy2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="10" selection-start-line="10" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="12" selection-start-line="12" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Target.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/TargetClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/ProxyClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="19" column="128" selection-start-line="19" selection-start-column="128" selection-end-line="19" selection-end-column="128" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-              <folding>
-                <element signature="e#355#363#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#1468#1469#0" expanded="true" />
-              </folding>
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/Director.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="52" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelABuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="27" />
-              <folding>
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelBBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="4" selection-start-line="4" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/AbstractCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModelBuilder.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Aspect.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/CarB.java">
+        <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/普通代理/GamePlay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="368">
+              <caret line="21" selection-start-line="21" selection-end-line="34" selection-end-column="5" />
               <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -213,12 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/entity/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Singleton1.java" />
-        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Doctor.java" />
-        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Person.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/SpecialSingleton.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/工厂模式/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/工厂模式/NormalFactory.java" />
@@ -242,7 +227,6 @@
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/工厂模式/factory/AbstractCarFactory.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/工厂模式/factory/AbstractHumanFactory.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/AbstractCar.java" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/ModelA.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/ModelB.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/AbstractModel.java" />
@@ -256,6 +240,21 @@
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/Test.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModelBuilder.java" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/test/AopConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/IGamePlay.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/GamePlay.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/普通代理/GamePlayProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/普通代理/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/IGamePlay2.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/GamePlay2.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/GamePlayProxy2.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Target.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/TargetClass.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/ProxyClass.java" />
+        <option value="$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Aspect.java" />
       </list>
     </option>
   </component>
@@ -279,6 +278,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -302,33 +304,33 @@
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="建造者模式" type="462c0819:PsiDirectoryNode" />
+              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="设计模式" type="b2602c69:ProjectViewProjectNode" />
               <item name="设计模式" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
-              <item name="建造者模式" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="代理模式" type="462c0819:PsiDirectoryNode" />
+              <item name="动态代理" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560706168974" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560944300795" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kevin.shejimoshi.代理模式.强制代理" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\12642\Desktop\mingyu (2)\设计模式\src\com\kevin\shejimoshi\建造者模式\test1" />
     </key>
@@ -345,13 +347,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.kevin.shejimoshi.Main" />
       <module name="设计模式" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.shejimoshi.代理模式.普通代理.Test" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.shejimoshi.代理模式.普通代理.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.shejimoshi.代理模式.强制代理.Test" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.shejimoshi.代理模式.强制代理.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kevin.shejimoshi.代理模式.动态代理.Test" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kevin.shejimoshi.代理模式.动态代理.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -386,9 +427,13 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
@@ -409,17 +454,20 @@
       <workItem from="1559824075153" duration="5962000" />
       <workItem from="1559918226103" duration="47000" />
       <workItem from="1560442896492" duration="1702000" />
-      <workItem from="1560703341325" duration="2822000" />
+      <workItem from="1560703341325" duration="2963000" />
+      <workItem from="1560739753811" duration="799000" />
+      <workItem from="1560937702798" duration="6269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15807000" />
+    <option name="totallyTimeSpent" value="23016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26693493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27498323" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -429,13 +477,13 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43909347" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26487252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28186968" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
@@ -461,28 +509,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Singleton1.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Doctor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1472">
-          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" selection-start-line="5" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/单例模式/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -574,16 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -605,10 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,21 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -638,12 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,97 +642,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/AbstractCar.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModelBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelABuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="27" />
-          <folding>
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelBBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="4" selection-start-line="4" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="966">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -752,14 +659,281 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/test/AopConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelABuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelBBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/模板方法模式/AbstractCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/AbstractModelBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/建造者模式/test2/ModelB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Override">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Override</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.Override</node>
+            <node x="" y="">java.lang.annotation.Annotation</node>
+            <node x="" y="">java.lang.annotation.Target</node>
+            <node x="" y="">java.lang.annotation.Retention</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="79.0" y="137.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.kevin.shejimoshi.代理模式.普通代理.GamePlayProxy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.kevin.shejimoshi.代理模式.普通代理.GamePlayProxy</OriginalElement>
+          <nodes>
+            <node x="" y="">com.kevin.shejimoshi.代理模式.IGamePlay</node>
+            <node x="" y="">com.kevin.shejimoshi.代理模式.普通代理.GamePlayProxy</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="68.5" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.kevin.shejimoshi.代理模式.普通代理.Test">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.kevin.shejimoshi.代理模式.普通代理.Test</OriginalElement>
+          <nodes>
+            <node x="" y="">com.kevin.shejimoshi.代理模式.普通代理.Test</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="36.0" y="15.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.kevin.shejimoshi.代理模式.IGamePlay">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.kevin.shejimoshi.代理模式.IGamePlay</OriginalElement>
+          <nodes>
+            <node x="" y="">com.kevin.shejimoshi.代理模式.IGamePlay</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="54.0" y="15.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/普通代理/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/普通代理/GamePlayProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/普通代理/IGamePlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="10" selection-start-line="10" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/普通代理/GamePlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="21" selection-start-line="21" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/GamePlayProxy2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="10" selection-start-line="10" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/IGamePlay2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="20" column="1" selection-start-line="8" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/GamePlay2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="59" selection-end-column="1" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/强制代理/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" selection-start-line="12" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/ProxyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="128" selection-start-line="19" selection-start-column="128" selection-end-line="19" selection-end-column="128" />
           <folding>
-            <element signature="e#355#363#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1468#1469#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/TargetClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kevin/shejimoshi/代理模式/动态代理/Aspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
           </folding>
         </state>
       </provider>
