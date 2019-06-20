@@ -17,7 +17,7 @@ public class ProxyClass {
 
         final Aspect aspect = new Aspect();
 
-        Target proxy = (Target) Proxy.newProxyInstance(ProxyClass.class.getClassLoader(), targetClass.getClass().getInterfaces(), new InvocationHandler() {
+        Target proxy = (Target) Proxy.newProxyInstance(ProxyClass.class.getClassLoader(), targetClass.getClass().getInterfaces(),new InvocationHandler() {
 
             @Override
             public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
